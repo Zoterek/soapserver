@@ -1,0 +1,13 @@
+{
+  "name": "soapserver",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+  	"start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "soap": "^0.24.0"
+  }
+}
